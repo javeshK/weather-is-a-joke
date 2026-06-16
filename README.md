@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://wallpaperaccess.com/download/interstellar-4k-300506" />
+<img width="1200" height="475" alt="GHBanner" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvFpJt9IVBJU3gebbHI4768IEgzZHW9zypaPVqrUd1Np2Q8QAt4IwD0mK&s=10" />
 </div>
 
 **above photo added for aesthetics**
