@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/ai-weather-intesteller-joke/',
+    base: '/weather-is-a-joke/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
