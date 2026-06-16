@@ -1,0 +1,6 @@
+{
+  "name": "Endurance Weather Monitor",
+  "description": "A cosmic weather station for Chandigarh, India, styled with space cadet and Christopher Nolan's Interstellar aesthetic, featuring zero-key real-time API integrations, time dilation, and TARS humor selectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
