@@ -24,7 +24,7 @@ import {
   HelpCircle
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
-const nebulaBg = "/src/assets/images/gargantua_nebula_bg_1781618392261.jpg";
+import nebulaBg from './assets/images/gargantua_nebula_bg_1781618392261.jpg';
 
 interface WeatherData {
   temp: number;
