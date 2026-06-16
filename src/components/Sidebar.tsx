@@ -128,7 +128,7 @@ export default function Sidebar({
 
           <div className="pt-6 border-t border-neutral-200 dark:border-neutral-800 flex flex-col items-center gap-4">
             <div className="flex gap-6">
-              <a href="https://github.com/javeshK" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors" title="GitHub">
+              <a href="https://github.com/javeshK/weather-is-a-joke" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors" title="GitHub Repository">
                 <Github className="w-5 h-5" />
               </a>
             </div>
@@ -218,7 +218,7 @@ export default function Sidebar({
           {/* Social Icons & Copyright */}
           <div className="w-full flex flex-col gap-4 items-start">
             <div className="flex gap-4">
-              <a href="https://github.com/javeshK" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors duration-200" title="GitHub">
+              <a href="https://github.com/javeshK/weather-is-a-joke" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors duration-200" title="GitHub Repository">
                 <Github className="w-4 h-4" />
               </a>
             </div>
