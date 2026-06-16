@@ -1,8 +1,8 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://wallpaperaccess.com/download/interstellar-4k-300506" />
 </div>
 
-# Run and deploy your AI Studio app
+**above photo added for aesthetics**
 
 This contains everything you need to run your app locally.
 
